@@ -1,4 +1,2 @@
 # Coursera---Housing-prices
-Proyecto final para el curso "Statistics for data science with python"
-
-Comentarios iniciales
+Final proyect for the course "Statistics for data science with python"
